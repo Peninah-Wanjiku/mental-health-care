@@ -135,11 +135,6 @@ class LoginFragment : Fragment() {
                 }
             }
         } else {
-            val fragment = IllnessesTypesFragment()
-            val fragmentManager = activity?.supportFragmentManager
-            val transaction = fragmentManager?.beginTransaction()
-            transaction?.replace(R.id.myNavHostFragment, fragment)
-            transaction?.commit()
             Toast.makeText(context, "All fields required", Toast.LENGTH_LONG).show()
         }
     }
