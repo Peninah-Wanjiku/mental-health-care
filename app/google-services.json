@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713480816988",
+    "project_id": "mental-care-88c0f",
+    "storage_bucket": "mental-care-88c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713480816988:android:21018b4d9b766cb8dd1999",
+        "android_client_info": {
+          "package_name": "com.pesh.mentalcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713480816988-4m1e0lo13lr94jpj6qe3v9qq8o12nuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Vx9aumuqlL33znA0Zf5HnpyH1ogPb3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713480816988-4m1e0lo13lr94jpj6qe3v9qq8o12nuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

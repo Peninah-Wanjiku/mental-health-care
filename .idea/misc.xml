@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.2194871794871795" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/activity_main.xml" value="0.19907407407407407" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/fragment_about.xml" value="0.18796296296296297" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/fragment_illnesses_types.xml" value="0.19907407407407407" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/fragment_login.xml" value="0.19907407407407407" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/layout_illnesses_list_item.xml" value="0.1935185185185185" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/registration_form.xml" value="0.25" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/layout/waiting_dialog_item.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MentalCare/app/src/main/res/menu/menu.xml" value="0.18796296296296297" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
